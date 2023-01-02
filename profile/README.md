@@ -1,4 +1,4 @@
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=website%20staus%20(main)&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwindcloud.com.au) 
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Website%20Status%20(Main)&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwindcloud.com.au) 
 
 # Wind Cloud Australia
 Welcome to the official GitHub orginisation owned and operated by Wind Cloud Australia. We aim to provide hyper-local, accurate and real-time weather information, using our ever-expanding network of sensors.
